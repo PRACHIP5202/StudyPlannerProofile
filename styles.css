@@ -6,6 +6,11 @@
     font-family: Arial, sans-serif;
 }
 
+body {
+    
+    background: url('background.jpg') no-repeat center center/cover;\
+}
+
 /* Navbar */
 .navbar {
     display: flex;
